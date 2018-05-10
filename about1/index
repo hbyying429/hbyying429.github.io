@@ -1,0 +1,54 @@
+  </nav>
+    </div>
+    <div id="single">
+  <div class="container">
+    <div class="post">
+      <div class="caption">
+        <div class="row">
+          <div class="col-md-4 mt-4"><img src="/ueo4/123.jpg" alt="佩琪" class="img-thumbnail"></div>
+          <div class="col-md-8 mt-4">
+            <p class="post-title">佩琪</p>
+            <p class="post-tag">小猪佩琪的世界</p>
+            <p>佩奇是一只非常可爱的小猪， 4岁了，她和她的爸爸、妈妈以及弟弟乔治生活在一起。</p>
+            <p>她最喜欢跳泥坑，最喜欢吃的是意大利面和巧克力蛋糕，最喜欢扮成小仙女公主，最喜欢喝橙汁，也很喜欢去她的爷爷奶奶家玩。</p>
+            <p></p>
+          </div>
+          <div class="col-md-12 my-4"><hr></div>
+          <div class="col-md-12">
+           
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    <div id="footer">
+      <div id="links">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-12">
+              <ul class="list-inline">
+                <li class="list-inline-item"><a href="https://hbyying429.github.io/about/">Copyright © 2011-2018 Zack 保留所有权利</a></li>
+                <li class="list-inline-item"><a href="https://hbyying429.github.io/sitemap.xml">Sitemap</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--[if lt IE 10]> 
+      <div id="ie-alert-panel" role="alert" class="navbar-fixed-bottom alert alert-danger">
+        <button data-dismiss="alert" class="close" type="button"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+        <h4>天啊！你的浏览器版本太旧了！</h4>
+        <p class="text-warning">您当前使用的浏览器版本过低，为了有更好的浏览体验</p>
+        <p>请使用<span class="text-info">谷歌浏览器</span>。</p>
+        <p>如果你是使用IE浏览器请升级到<span class="text-info">IE10以上</span>。</p>
+        <button data-dismiss="alert" class="btn btn-default pull-right" type="button">关闭</button>
+      </div>
+    <![endif]-->
+    <script src="/assets/jquery-3.2.1.min.js"></script>
+    <script src="/assets/popper.min.js"></script>
+    <script src="/assets/bootstrap.min.js"></script>
+    <script src="/assets/back-to-top.min.js"></script>
+  </body>
+</html>
